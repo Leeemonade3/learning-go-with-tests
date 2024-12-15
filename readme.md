@@ -4,3 +4,12 @@ learning from [Learning Go with Tests](https://quii.gitbook.io/learn-go-with-tes
 
 Working though Go Fundamentals
 1) 50% Complete with Hello World
+   
+Topics: 
+Constants
+Testing and Subtests
+Helper Function
+
+Go cmds:
+go test
+go help
