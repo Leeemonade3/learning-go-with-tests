@@ -6,8 +6,8 @@ Working though Go Fundamentals
 1) 50% Complete with Hello World
    
 Topics: 
-Constants
 Testing and Subtests
+Constants
 Helper Function
 
 Go cmds:
