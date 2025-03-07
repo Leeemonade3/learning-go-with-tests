@@ -13,3 +13,10 @@ Helper Function
 Go cmds:
 go test
 go help
+
+object A = (1,2,3)
+object B = (1,2,3)
+object C = A
+
+(A).equal(B) is false
+(A).equals(C) is true
